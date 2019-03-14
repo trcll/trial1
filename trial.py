@@ -13,7 +13,7 @@ print("Average haircut price: " + str(average_price))
 print (price)
 change_price=price
 
-percent_discount = 0.85
+percent_discount = 1
 Discount = [0, 0, 0, 0, 0, 0, 0, 0]
 
 for a in range(len(prices)):
